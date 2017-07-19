@@ -1,0 +1,8 @@
+D:\PROJECT\WebApplication2Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\PROJECT\WebApplication2Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\PROJECT\WebApplication2Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\PROJECT\WebApplication2Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\PROJECT\WebApplication2Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\PROJECT\WebApplication2Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\PROJECT\WebApplication2Test\ConsoleApplication1\bin\Debug\RabbitMQ.Client.dll
+D:\PROJECT\WebApplication2Test\ConsoleApplication1\bin\Debug\RabbitMQ.Client.xml

@@ -1,0 +1,7 @@
+D:\PROJECT\WebApplication2Test\RabbitMQ-receiver\bin\Debug\RabbitMQ-receiver.exe.config
+D:\PROJECT\WebApplication2Test\RabbitMQ-receiver\bin\Debug\RabbitMQ-receiver.exe
+D:\PROJECT\WebApplication2Test\RabbitMQ-receiver\bin\Debug\RabbitMQ-receiver.pdb
+D:\PROJECT\WebApplication2Test\RabbitMQ-receiver\bin\Debug\RabbitMQ.Client.dll
+D:\PROJECT\WebApplication2Test\RabbitMQ-receiver\bin\Debug\RabbitMQ.Client.xml
+D:\PROJECT\WebApplication2Test\RabbitMQ-receiver\obj\Debug\RabbitMQ-receiver.exe
+D:\PROJECT\WebApplication2Test\RabbitMQ-receiver\obj\Debug\RabbitMQ-receiver.pdb
